@@ -1,7 +1,7 @@
 ---
 title: "Self-supervised"
-bg: blue
-color: white
+bg: white
+color: blue
 style: center
 fa-icon: clock-o
 ---
